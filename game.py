@@ -1,0 +1,1 @@
+reward, game_over, score = game.play_step(action)
